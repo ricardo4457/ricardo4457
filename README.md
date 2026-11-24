@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=190&section=header&text=Ricardo%20Vieira&fontSize=46&fontColor=57D19A&fontAlignY=38&desc=Full-Stack%20Developer&descSize=18&descAlignY=60&descColor=FFFFFF" width="100%" alt="Ricardo Vieira, Full-Stack Developer" />
@@ -9,6 +10,7 @@
 <a href="https://www.linkedin.com/in/ricardo-vieira-754599224/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:ricardo.a.vieira123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/ricardo4457"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="./Ricardo_Vieira_CV.pdf"><img src="https://img.shields.io/badge/CV-57D19A?style=flat-square&logo=adobeacrobatreader&logoColor=0D1117" alt="CV" /></a>
 
 </div>
 
